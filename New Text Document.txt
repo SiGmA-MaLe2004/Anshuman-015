@@ -1,3 +1,4 @@
+asg-7
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install nginx
@@ -7,7 +8,7 @@ cd var/www
 sudo chmod 777 html
 
 
-
+asg-8
 git clone https://github.com/SujalGupta52/SDITO-Lab.git
 git config --global user.email "deyanshuman208@gmail.com"
 git config --global user.name SiGmA-MaLe2004
@@ -18,6 +19,7 @@ git commit -m "done"
 git remote add origin https://github.com/SiGmA-MaLe2004/Anshuman-015.git
 git push -u origin master
 
+asg-10
 #!/bin/bash
 apt-get update
 apt-get install -y nginx
@@ -67,7 +69,15 @@ node index.js
     <a href="index.html">Back to Index</a>
 </body>
 </html>
-
+asg-9
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install nginx
+nginx -v
+curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash –
+sudo apt install nodejs
+nodejs -v
+git clone https://github.com/SiGmA-MaLe2004/Anshuman-015.git
 
 
 
