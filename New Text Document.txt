@@ -19,7 +19,7 @@ git commit -m "done"
 git remote add origin https://github.com/SiGmA-MaLe2004/Anshuman-015.git
 git push -u origin master
 
-asg-10
+asg-10-11
 #!/bin/bash
 apt-get update
 apt-get install -y nginx
@@ -32,6 +32,15 @@ git clone https://github.com/Aritra-Koley/Aritra_01.git
 cd Aritra_01
 npm install
 node index.js
+asg-11
+sudo nano anshuman.sh
+#!/bin/bash
+while(true)
+do
+        echo "Inside loop"
+done
+sudo chmod +x anshuman.sh
+sh anshuman.sh
 
 
 
